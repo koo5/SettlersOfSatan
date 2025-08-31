@@ -20,16 +20,16 @@
   },
   "homepage": "https://github.com/SeriousGuy888/SettlersOfSatan#readme",
   "dependencies": {
-    "@vue/cli-plugin-babel": "~4.5.0",
-    "@vue/cli-service": "~4.5.0",
+    "@vue/cli-plugin-babel": "~5.0.8",
+    "@vue/cli-service": "~5.0.8",
     "@vue/compiler-sfc": "^3.0.0",
     "core-js": "^3.6.5",
-    "express": "^4.17.1",
-    "socket.io": "^4.1.2",
+    "express": "^4.21.2",
+    "socket.io": "^4.6.2",
     "vue": "^3.0.0",
     "vuex": "^4.0.2"
   },
   "devDependencies": {
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.22"
   }
 }
